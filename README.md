@@ -33,7 +33,7 @@ To get started with this project, follow these steps:
 
 1. **Clone the repository**:
     ```sh
-    git clone https://github.com/your-username/Animated-Onboarding-Sign-in-Home-page-with-Rive-and-Flutter.git
+    git clone https://github.com/Hamza-Maa/Animated-Onboarding-Sign-in-Home-page-with-Rive-and-Flutter.git
     ```
 2. **Navigate to the project directory**:
     ```sh
